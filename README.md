@@ -22,6 +22,7 @@ Here's a little about me:
 - Machine Learning - Beginner/Intermediate
   
 - 🚀 **Currently Learning:**
+- React
 - React Native App Development
 - Micro Controller Programming - Arduino
 
