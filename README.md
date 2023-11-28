@@ -11,7 +11,7 @@ Here's a little about me:
 - 🎓 **Age:** 16
   
 - 💻 **Tech Stack:**
-- C Programming
+- C Programming - Intermediate
 - Java - Advanced
 - Python - Intermediate/Advanced
 - JavaScript - Intermediate
