@@ -1,6 +1,6 @@
 # Welcome My GitHub!
 
-Hello there! 👋 I'm Virvi Huta, a passionate developer aspiring to be a software engineer.
+Hello there! 👋 I'm Virvi Huta, a passionate developer aspiring to be an AI Engineer.
 I'm currently on a journey to explore and master various programming languages and technologies. 
 Here's a little about me:
 
@@ -8,7 +8,7 @@ Here's a little about me:
 
 - 🌟 **Name:** Virvi Huta
 
-- 🎓 **Age:** 16
+- 🎓 **Age:** 17
   
 - 💻 **Tech Stack:**
 - C Programming - Intermediate
@@ -19,11 +19,14 @@ Here's a little about me:
 - HTML - Advanced
 - CSS - Advanced
 - MySQL - Intermediate
-- Machine Learning - Beginner/Intermediate
+- Machine Learning - Intermediate
+- Data Analysis - Advanced
+- Data Science - Beginner
+
   
 - 🚀 **Currently Learning:**
-- React
-- React Native App Development
+- Data Science
+- Data Analysis (Display)
 - Micro Controller Programming - Arduino
 
 ## Projects
@@ -40,17 +43,16 @@ Feel free to explore my repositories to see what I'm working on!
 I believe in continuous learning, and I'm always striving to improve my skills. Currently, I'm focused on mastering:
 
 - Python
-- JavaScript
-- C Programming
+- Data Analysis
+- Data Science
 - Machine Learning
-- React Native App Development
 - Micro Controller Programming - Arduino
 
 ## Connect with Me
 
 Let's connect and learn together! Feel free to reach out:
 
-- 📧 Email: virvihuta@red-tech.com
+- 📧 Email: hutavirvi07@gmail.com
 
 ## Acknowledgments
 
