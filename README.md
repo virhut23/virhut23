@@ -21,12 +21,15 @@ Here's a little about me:
 - MySQL - Intermediate
 - Machine Learning - Intermediate
 - Data Analysis - Advanced
-- Data Science - Beginner
+- Data Science - Intermediate
+- Deep Learning - Intermediate
 
   
 - 🚀 **Currently Learning:**
 - Data Science
-- Data Analysis (Display)
+- Data Analysis (Visuals)
+- Deep Learning
+- Machine Learning
 - Micro Controller Programming - Arduino
 
 ## Projects
@@ -46,6 +49,7 @@ I believe in continuous learning, and I'm always striving to improve my skills. 
 - Data Analysis
 - Data Science
 - Machine Learning
+- Deep Learning
 - Micro Controller Programming - Arduino
 
 ## Connect with Me
